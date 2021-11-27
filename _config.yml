@@ -1,10 +1,10 @@
-title: Oinam Jekyll
-description: A simple, clean, and minimal Jekyll Theme.
+title: Tomas Lundberg
+description: Welcome to my personal website
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
-url: https://oinam.github.io
-baseurl: /oinam-jekyll
+url: https://tompolompo.github.io
+baseurl: /tompolompo.github.io
 
 # footer
 footer:

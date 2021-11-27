@@ -22,5 +22,8 @@ A page with just a photos gallery. You can remove the title above in the `front 
   <img src="https://placeimg.com/400/480/grayscale">
   <img src="https://placeimg.com/800/600/arch">
   <img src="https://placeimg.com/600/300/people">
+	
+	test input
+	
   <img src="https://placeimg.com/480/320/tech">
 </div>
