@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Professional
 permalink: /about/
 ---
 test 5
