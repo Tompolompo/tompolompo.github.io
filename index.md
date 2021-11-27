@@ -22,6 +22,7 @@ There are three ways of using Oinam Jekyll Theme;
 1. Remote Theme
 2. Template
 3. Ruby Gem
+4. test 2
 
 ### Remote Theme (Preferred)
 
