@@ -11,6 +11,12 @@ layout: page
 ## Tomas Lundberg
 This is a test
 
+<figure>
+  <img src="https://drive.google.com/file/d/1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA/view?usp=sharing" alt="Image Alt" loading="lazy">
+  <figcaption>
+    A picture caption that details what this picture is about.
+  </figcaption>
+</figure>
 
 ![alt text](_images/me.jpg "Title")
 
