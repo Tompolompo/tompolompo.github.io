@@ -9,25 +9,13 @@ layout: page
 ---
 
 ## Hello, this is me
-![alt text](images/me_large.jpg "Me")
+![image](https://drive.google.com/uc?export=view&id=1Jxga8Q1ZMHlcMkXMeiIQDakRAkPuiQn0)
 _This is me in Utrecht, the Netherlands, the fall of 2020_
 ### Background
 I was born in ...
 
 ### What's on this site?
 You can find
-
-
-
-![alt text](images/clean.jpg "Me1")
-_Caption_
-
-![alt text](images/jerk.jpg "Me2")
-_Caption_
-
-![alt text](images/podium.jpg "Me3")
-_Caption_
-
 
 
 ---
