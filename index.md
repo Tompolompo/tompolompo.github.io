@@ -20,7 +20,11 @@ This is a test
   </figcaption>
 </figure>
 
-![alt text](_images/me.jpg "Title")
+![alt text](images/me.jpg "Title")
+
+test 4
+
+![alt text](me.jpg "Title")
 
 
 {% include video source="google-drive" id="10Cpo3hYiX-mEm_rrJ_RziNp6icI4Baac" %}

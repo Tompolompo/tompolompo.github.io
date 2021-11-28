@@ -3,7 +3,7 @@ layout: page
 title: Professional
 permalink: /about/
 ---
-![alt text](_images/me.jpg "Title")
+![alt text](me.jpg "Title")
 
 {% include photos folder="_images" %}
 
