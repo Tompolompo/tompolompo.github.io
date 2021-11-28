@@ -12,7 +12,7 @@ layout: page
 This is a test
 
 <figure>
-  <img src="https://drive.google.com/file/d/1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA/view?usp=sharing" alt="Image Alt" loading="lazy">
+  <img src="https://drive.google.com/file/d/1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA/view" alt="Image Alt" loading="lazy">
   <figcaption>
     A picture caption that details what this picture is about.
   </figcaption>
