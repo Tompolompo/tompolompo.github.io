@@ -16,6 +16,15 @@ I was born in ...
 ### What's on this site?
 You can find
 
+![alt text](images/clean.jpg "Me1")
+_Caption_
+
+![alt text](images/jerk.jpg "Me2")
+_Caption_
+
+![alt text](images/podium.jpg "Me3")
+_Caption_
+
 
 
 ---
