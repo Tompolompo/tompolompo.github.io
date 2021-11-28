@@ -11,10 +11,12 @@ layout: page
 ## Tomas Lundberg
 This is a test
 
+{% include video source="google-drive" id="1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA" %}
+
 <figure>
   <img src="https://drive.google.com/file/d/1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA/preview">
   <figcaption>
-    caption 2
+    caption 3
   </figcaption>
 </figure>
 
