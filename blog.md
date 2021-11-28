@@ -1,5 +1,7 @@
 ---
-layout: blog
+layout: page
+title: title
+permalink: /blog/
 ---
 what happends if i write here?
 

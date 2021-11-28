@@ -9,7 +9,7 @@ layout: page
 ---
 ## Hello, this is me
 ![alt text](images/me_large.jpg "Me")
-_This is me in Utrecht, the Netherlands, th fall of 2020_
+_This is me in Utrecht, the Netherlands, the fall of 2020_
 ### Background
 I was born in ...
 
