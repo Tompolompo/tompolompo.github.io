@@ -1,16 +1,8 @@
 ---
 layout: page
-title: Styleguide
+title: This is me
 permalink: /styleguide/
 ---
-![alt text](images/clean.jpg "Me")
-_Caption_
-
-![alt text](images/jerk.jpg "Me")
-_Caption_
-
-![alt text](images/podium.jpg "Me")
-_Caption_
 
 
 ---

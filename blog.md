@@ -1,6 +1,6 @@
 ---
 layout: page
-title: title
+title: Projects
 permalink: /blog/
 ---
 ## Weight lifting
