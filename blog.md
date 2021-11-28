@@ -5,14 +5,14 @@ permalink: /blog/
 ---
 what happends if i write here?
 
-![alt text](images/clean.jpg "Me")
-_Caption_
+![image](https://drive.google.com/uc?export=view&id=10E0KGifHjSGL1XhztCWs1fq7jK00rCKh)
+_Clean_
 
-![alt text](images/jerk.jpg "Me")
-_Caption_
+![image](https://drive.google.com/uc?export=view&id=10DoxNqcz8N4mpfVehxhqB_XR4u1B1uVC)
+_jerk_
 
-![alt text](images/podium.jpg "Me")
-_Caption_
+![image](https://drive.google.com/uc?export=view&id=10DiXyWmQusXvjomwMLzFzedfeFGoPrCw)
+_podium_
 
 
 ---

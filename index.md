@@ -8,10 +8,6 @@
 layout: page
 ---
 
-![image](https://drive.google.com/uc?export=view&id=10DoxNqcz8N4mpfVehxhqB_XR4u1B1uVC)
-
-![alt text](clean.jpg "Me1")
-_Caption_
 ## Hello, this is me
 ![alt text](images/me_large.jpg "Me")
 _This is me in Utrecht, the Netherlands, the fall of 2020_
