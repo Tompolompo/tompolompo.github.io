@@ -12,9 +12,9 @@ layout: page
 This is a test
 
 <figure>
-  <img src="https://drive.google.com/file/d/1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA/view">
+  <img src="https://drive.google.com/file/d/1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA/preview">
   <figcaption>
-    caption
+    caption 2
   </figcaption>
 </figure>
 
