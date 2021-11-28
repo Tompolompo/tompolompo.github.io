@@ -3,16 +3,13 @@ layout: page
 title: Professional
 permalink: /about/
 ---
-test 5
+![alt text](_images/me.jpg "Title")
 
 This is an example page that uses the `page` layout.
 
-Visit the [Homepage]({{ site.baseurl | prepend: site.url }}/) for documentation on installation, setup, how-tos, features, and more about this Jekyll theme.
+Visit the [Homepage]({{ site.baseurl | prepend: site.url }}/) 
 
 ---
 
-Email us at [hi@oinam.com](mailto:hi@oinam.com?subject=Oinam Jekyll).\
+Email me at [tomas.lundberg95@gmail.com](mailto:tomas.lundberg95@gmail.com?subject=l).\
 Find us at
-[oinam.com](https://oinam.com),
-[Twitter](https://twitter.com/oinam),
-[Instagram](https://www.instagram.com/oinam/).
