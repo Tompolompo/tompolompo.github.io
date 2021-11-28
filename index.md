@@ -12,12 +12,16 @@ layout: page
 This is a test
 
 
-![alt text](figures_videos/me.jpg "Title")
+![what is this](figures_videos/me.jpg "Title")
 
-![alt text](figures_videos/sm-stöt.mp4 "Title")
+![alt text](figures_videos/smjerk.mp4 "Title")
+
+
 
 
 This is the demo and documentation for Oinam Jekyll Theme. The [Styleguide]({{ site.baseurl | prepend: site.url }}/styleguide/) has the demonstation of all content features and options you can use. I wrote [an article](https://brajeshwar.com/2021/brajeshwar.com-2021/) about how and why I built this Jekyll Theme.
+
+![alt text](figures_videos/smspjut.mp4 "Title")
 
 > The [source](https://github.com/oinam/oinam-jekyll) is hosted on Github and you can [download](https://github.com/oinam/oinam-jekyll/archive/refs/heads/main.zip) a zipped version of the source code.
 
