@@ -3,9 +3,9 @@ layout: page
 title: Professional
 permalink: /about/
 ---
-![alt text](me.jpg "Title")
+{% include video source="google-drive" id="10Cpo3hYiX-mEm_rrJ_RziNp6icI4Baac" %}
 
-{% include photos folder="_images" %}
+{% include video source="google-drive" id="10DbuRfi7Wdk3NbdO-9nC2d5K2WkyqSJj" %}
 
 This is an example page that uses the `page` layout.
 

@@ -29,7 +29,6 @@ header.header h1 {
   font-size: calc(var(--font-size) * var(--typescale-heading) * var(--typescale-heading) * var(--typescale-heading));
   font-weight: 700;
   margin-bottom: 0;
-  background-image:url("images/me_large.jpg");
 }
 
 header.header h1 a, header.header h1 a:visited {
