@@ -7,24 +7,11 @@
 #
 layout: page
 ---
+## This is me
+![alt text](images/me_large.jpg "Me")
+![alt text](images/me.jpg "Me")
 
-## Tomas Lundberg
-This is a test
-
-{% include video source="google-drive" id="1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA" %}
-
-<figure>
-  <img src="https://drive.google.com/file/d/1w-GSGslqdygrdLW5sjuQ-PPaOg-4glUA/preview">
-  <figcaption>
-    caption 3
-  </figcaption>
-</figure>
-
-![alt text](images/me.jpg "Title")
-
-test 4
-
-![alt text](me.jpg "Title")
+<img src="images/me.jpg" alt="Me" title="Me" width="150" height="100" />
 
 
 {% include video source="google-drive" id="10Cpo3hYiX-mEm_rrJ_RziNp6icI4Baac" %}
