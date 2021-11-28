@@ -12,7 +12,7 @@ layout: page
 This is a test
 
 
-![what is this](_images/me.jpg "Title")
+![alt text](_images/me.jpg "Title")
 
 
 {% include video source="google-drive" id="10Cpo3hYiX-mEm_rrJ_RziNp6icI4Baac" %}
