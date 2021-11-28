@@ -12,11 +12,14 @@ layout: page
 This is a test
 
 
-![what is this](figures_videos/me.jpg "Title")
+![what is this](_images/me.jpg "Title")
 
-![alt text](figures_videos/smjerk.mp4 "Title")
 
 {% include video source="google-drive" id="10Cpo3hYiX-mEm_rrJ_RziNp6icI4Baac" %}
+
+{% include video source="google-drive" id="10DbuRfi7Wdk3NbdO-9nC2d5K2WkyqSJj" %}
+
+
 
 
 This is the demo and documentation for Oinam Jekyll Theme. The [Styleguide]({{ site.baseurl | prepend: site.url }}/styleguide/) has the demonstation of all content features and options you can use. I wrote [an article](https://brajeshwar.com/2021/brajeshwar.com-2021/) about how and why I built this Jekyll Theme.
