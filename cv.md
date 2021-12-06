@@ -3,8 +3,20 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-## Education
 
+<div style= "float:right;position: relative; top: -80px;">
+```{r pressure, echo=FALSE}
+images/me.jpg
+
+</div>
+
+<img src="images/me.jpg"  
+alt="Markdown Monster icon"  
+style="float: right; margin-right: 10px;" />
+## Personal data
+![image](images/me.jpg)
+
+## Education
 ### Chalmers University of Technology, *Gothenburg*
 *2016-2022*\
 **Program**: *Engineering Physics*\
@@ -26,6 +38,7 @@ Natural science program with athletics track.
 ### Henley High School, *Adelaide*
 *2013-2014*\
 Exchange year at a sports school in Australia.
+---
 
 ## Work Experience
 ### Sticky Solar Power, *Stockholm*
@@ -41,6 +54,8 @@ Lead groups of 2-20 kids, involved planning, executing and following up on train
 ### Various jobs, *Stockholm*
 *2015-2016*\
 Event Manager at *Lidingö-Loppet*, Teaching assistantat *Högsätra Prepatory School*, Receptionist at* Blue Hotel*, Spa worker at *Blue Spa*, Driver and ambasadorat *Mini Cooper*, Receptionist at *Inomhusklimat i Stockholm AB*
+
+---
 
 ## Other Experience
 ### Elite Athlete
@@ -70,6 +85,39 @@ Structured reading group over the summer on the subject of Artificial General In
 ### 10-day silent retreat , *Ödeshög*
 *Winter 2021*\
 A 10-day silent meditation retreat (Vipassana). Every day there was meditation from 4.30 in the morning until bedtime with no talking, no eye contact, no phones, no writing and no reading. 
+
+---
+## Professional Skills, Tests and Scholarships
+### Programming Languages
+- **Python** *>500 hours*
+	- I have used python in as good as every course during my masters as well as professionally and for personal projects, mostly to analyze data.
+	- Packages: numpy, pandas, matplotlib, seabron, scipy, scikit-learn, tensorflow, pytorch, eemce, GPy and many more
+- **C** *>100 hours*
+	- I used C in my master thesis as well as in the course *computational physics*
+- **C++** *>100 hours*
+	- I ued c++ during my master thesis where we adapted a 500+ class project (Avida) to our purposes
+- **Matlab** *>100* hours
+	- This was the go-to language during my bachelor's 
+- **Java** *>100* hours
+	- My introduction course in programming was in Java
+- I also know the languages **Latex**, **Labview** and **Berckhoff Twincat** 
+- I am comfortable working with **linux** and **git**
+
+### Languages
+- Swedish (native)
+- English (fluent)
+- Spanish (basics)
+
+### Scholarships
+- Carl Erik Levins scholarship (2021)
+	- Scholarship for my master studies coupled with olympic weightlifting
+- Anna Whitlock's scholarship (2019)
+	- Scholarship for master studies abroad.
+- Erasmus scholarship (2019)
+	- Scholarship for master studies abroad.
+
+### Test Results
+- Swedish Scholastic Aptitude Test (Högskoleprovet): 1.75 or 98.9 percentile (2015)
 
 
 
