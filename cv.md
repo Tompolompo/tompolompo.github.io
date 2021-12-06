@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /about/
+permalink: /CV/
 ---
 ## Education
 
@@ -12,20 +12,20 @@ permalink: /about/
 **Master Thesis** (Mathematical institution at Chalmers):  Studying the problem of control in Artificial General Inteligence through articifial life simulations.\
 **Courses** (Master): Learning from Data, Computational Physics, Time Series Analysis, the Standard Model, Advanced Quantum Mechanics, Modern Methods in Experimental Physics, 'Emerging Technologies, Global Risk and the Future of Humanity'\
 **Courses** (AI/ML-track): Deep Learning, Nonlinear Optimization, Causality and Causal Inference, Advanced Simulations and Machine Learning, Advanced Probabilistic Machine Learning, Algorithms\*, Design of AI systems\*, Statistical learning for big data\*, Advanced machine learning with neural networks\* \
-\*(spring 2022)\
+\*(spring 2022)
 
 ### Universiteit Utrecht, *Utrecht*
 *2019-2020*\
 *Exchange year in Utrecht, The Netherlands*\
-**Courses**: Quantum Field Theory, General Relativity, Machine Learning Theory, Financial Mathematics, Algorithms in Finance, Complex Systems, Deep learning\
+**Courses**: Quantum Field Theory, General Relativity, Machine Learning Theory, Financial Mathematics, Algorithms in Finance, Complex Systems, Deep learning
 
 ### Hersby Gymnasium, *Lidingö*
 *2011-2015*\
-Natural science program with athletics track.\
+Natural science program with athletics track.
 
 ### Henley High School, *Adelaide*
 *2013-2014*\
-Exchange year at a sports school in Australia.\
+Exchange year at a sports school in Australia.
 
 ## Work Experience
 ### Sticky Solar Power, *Stockholm*
@@ -36,7 +36,7 @@ Built and implemented a program (Berckoff Twincat and Python) that tracks, saves
 ### IFK Lidingö Friidrott, *Stockholm*
 *2009-2019*\
 **Athletics coach, ages 8-18**\
-Lead groups of 2-20 kids, involved planning, executing and following up on training routines. Among the coached individuals were several Swedish youth national champions.\
+Lead groups of 2-20 kids, involved planning, executing and following up on training routines. Among the coached individuals were several Swedish youth national champions.
 
 ### Various jobs, *Stockholm*
 *2015-2016*\
@@ -59,7 +59,7 @@ From age 15 I have trained to become a professional athlete
 
 ### Effective Altruism Gothenburg
 *2021-Now*\
-**Member of the board**
+**Member of the board**\
 I help running and developing the local EA community in Gothenburg. The work mostly consists of organizing events, such as presentations, discussions, book clubs, hikes, talks etc.
 
 ### AGI Safety Fundamentals
