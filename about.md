@@ -7,10 +7,15 @@ permalink: /about/
 
 ### Chalmers University of Technology, *Gothenburg*
 *2016-2022*
+
 **Program**: *Engineering Physics*
+
 **Master**: *Physics with AI/ML track* (GPA: 4.84/5)
+
 **Master Thesis** (Mathematical institution at Chalmers):  Studying the problem of control in Artificial General Inteligence through articifial life simulations.
+
 **Courses** (Master): Learning from Data, Computational Physcs, Time Series Analysis, the Standard Model, Advanced Quantum Mechanics, Modern Methods in Experimental Physics, 'Emerging Technologies, Global Risk and the Future of Humanity'
+
 **Courses** (AI/ML-track): Deep Learning, Nonlinear Optimization, Causality and Causal Inference, Advanced Simulations and Machine Learning, Advanced Probabilistic Machine Learning, Algorithms\*, Design of AI systems\*, Statistical learning for big data\*, Advanced\* machine learning with neural networks\* 
 \*(spring 2022)
 
@@ -30,6 +35,10 @@ Exchange year at a sports school in Australia.
 ## Professional Experience
 ### Elite Athlete
 *2011-Now*
+From age 15 I have trained to become a professional athlete  
+- 15 to ~ 23: Javelin throwing  
+- ~23 to now: Olympic weightlifting  
+- Total hours in training exceeds 6000 hours
 
 
 
