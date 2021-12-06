@@ -3,19 +3,6 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-
-<div style= "float:right;position: relative; top: -80px;">
-```{r pressure, echo=FALSE}
-images/me.jpg
-
-</div>
-
-<img src="images/me.jpg"  
-alt="Markdown Monster icon"  
-style="float: right; margin-right: 10px;" />
-## Personal data
-![image](images/me.jpg)
-
 ## Education
 ### Chalmers University of Technology, *Gothenburg*
 *2016-2022*\
