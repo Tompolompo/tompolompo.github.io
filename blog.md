@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /blog/
 ---
-## Weight lifting
+## Olympic Weightlifting
 
 ![image](https://drive.google.com/uc?export=view&id=10E0KGifHjSGL1XhztCWs1fq7jK00rCKh)
 _Clean_

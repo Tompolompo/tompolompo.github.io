@@ -9,14 +9,13 @@ layout: page
 ---
 
 ## Hello, this is me
-![image](https://drive.google.com/uc?export=view&id=1Jxga8Q1ZMHlcMkXMeiIQDakRAkPuiQn0)
-_This is me in Utrecht, the Netherlands, the fall of 2020_
+I'm an energetic and driven AI and ML enthusiast with a background in engineering physics, and as an elite athlete in both javeling throwing and olympic weightlifting. My biggest passion is to do as much good as I can and make the world a better place for everyone in it. 
 
-### Background
-I was born in ...
+![image](https://drive.google.com/uc?export=view&id=1Jxga8Q1ZMHlcMkXMeiIQDakRAkPuiQn0)
+_This is me in Utrecht, the Netherlands, during my exchange year 2019/2020_
 
 ### What's on this site?
-You can find
+links to other sub pages...
 
 
 ---
