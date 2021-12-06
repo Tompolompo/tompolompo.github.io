@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This is me
-permalink: /styleguide/
+permalink: /me/
 ---
 
 {% include video source="google-drive" id="10DbuRfi7Wdk3NbdO-9nC2d5K2WkyqSJj" %}
