@@ -15,7 +15,7 @@ I'm an energetic, curious and social AI and ML enthusiast with a burning passion
 _This is me in Utrecht, the Netherlands, during my exchange year 2019/2020_
 
 ### What's on this site?
-Check out my [cv](/cv/), see what [projects](/projects/) I've done and get to know [me](/me/) better.
+Check out my [cv](/cv/), see what [projects](/projects/) I've done, get to know [me](/me/) better and have a look at my  [gallery](/gallery/).
 
 
 ---
