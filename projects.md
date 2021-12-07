@@ -3,16 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-## Olympic Weightlifting
 
-![image](https://drive.google.com/uc?export=view&id=10E0KGifHjSGL1XhztCWs1fq7jK00rCKh)
-_Clean_
-
-![image](https://drive.google.com/uc?export=view&id=10DoxNqcz8N4mpfVehxhqB_XR4u1B1uVC)
-_jerk_
-
-![image](https://drive.google.com/uc?export=view&id=10DiXyWmQusXvjomwMLzFzedfeFGoPrCw)
-_podium_
 
 
 ---

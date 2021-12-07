@@ -108,8 +108,6 @@ A 10-day silent meditation retreat (Vipassana). Every day there was meditation f
 
 
 
-
-
 ---
 
 Email me at [tomas.lundberg95@gmail.com](mailto:tomas.lundberg95@gmail.com).

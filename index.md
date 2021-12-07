@@ -8,14 +8,14 @@
 layout: page
 ---
 
-## Hello, this is me
-I'm an energetic and driven AI and ML enthusiast with a background in engineering physics, and as an elite athlete in both javeling throwing and olympic weightlifting. I have a burning passion to make the world a better place for everyone in it. 
+## Hello, this is me!
+I'm an energetic, curious and social AI and ML enthusiast with a burning passion to make the world a better place for everyone in it. My background is in engineering physics, and I have been an elite athlete in both javeling throwing and olympic weightlifting. I'm looking for opportunities as a data scientist where I can foster my interest and improve my skills in AI and ML. 
 
 ![image](https://drive.google.com/uc?export=view&id=1Jxga8Q1ZMHlcMkXMeiIQDakRAkPuiQn0)
 _This is me in Utrecht, the Netherlands, during my exchange year 2019/2020_
 
 ### What's on this site?
-links to other sub pages...
+Check out my [cv](/cv/), see what [projects](/projects/) I've done and get to know [me](/me/) better.
 
 
 ---
