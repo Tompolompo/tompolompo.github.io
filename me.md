@@ -1,6 +1,6 @@
 ---
 layout: page
-title: This is me
+title: My Story
 permalink: /me/
 ---
 
@@ -14,11 +14,11 @@ Unfortunately, the life as a javelin thrower is difficult and countless of injur
 
 Luckily, I also had my studies of physics that really inspired me and this gradually became a bigger part of my life. Through the study of Newtonian mechanics to Einstein’s general relativity to quantum field theory and beyond, my initial curiosity of the natural world has fuelled my ability to solve difficult problems. It has also made me almost addicted to learn new things and I am constantly exploring new subjects of all kinds. This is something I am very grateful for and I want to continue foster this part of me through out my life.
 
-In 2019/2020, I went on an exchange year to Utrecht in the Netherlands and during this year several changes in my life took place. First, due to the many setbacks as a javelin thrower, I changed my sport focus towards olympic weightlifting instead. Second, even though I had chose *physics* as my master, I started to become increasingly intrested in the developments of AI and in particular the long-term impact that AI might have on our society. Eventually, this interest lead me to write my master thesis on artificial general intelligence the spring of 2021. During my thesis, I became convinced that it was AI that I wanted to work with and thus decided to take an additional year at Chalmers to delve deeper into the subject. In hindsight, this was one of the best decisions I've made.
+In 2019/2020, I went on an exchange year to Utrecht in the Netherlands and during this year several changes in my life took place. First, due to the many setbacks as a javelin thrower, I changed my sport focus towards olympic weightlifting instead. Second, even though I had chose *physics* as my master, I started to become increasingly intrested in the developments of AI and in particular the long-term impact that AI might have on our society. Eventually, this interest lead me to write my master thesis on artificial general intelligence the spring of 2021. During my thesis, I became convinced that it was AI that I wanted to work with and thus decided to take an additional year at Chalmers to delve deeper into the subject. In hindsight, this was one of the best decisions I've made. Have a look at some of the [projects](/projects/) I've done.
 
 Now, I'm halfway through my sixth and last year of university and so are looking for professional opportunities where I can gain practical experience in AI/ML/data science. 
 
-Moreover, my career as an olympic weightlifter has already been much more succesful than that as a javelin thrower. In October this year, I participated in the Swedish nationals, my second competition ever, and secured a bronze medal in the clean and jerk. Check out my [medal lift](/gallery/).
+Moreover, my career as an olympic weightlifter has already been much more succesful than that as a javelin thrower. In October this year, I participated in the Swedish nationals, my second competition ever, and I am proud to say that I secured a bronze medal in the clean and jerk. Check out my [medal lift](/gallery/).
 
 
 
