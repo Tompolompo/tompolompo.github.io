@@ -83,10 +83,12 @@ A 10-day silent meditation retreat (Vipassana). Every day there was meditation f
 	- I used C in my master thesis as well as in the course *computational physics*
 - **C++** *>100 hours*
 	- I ued c++ during my master thesis where we adapted a 500+ class project (Avida) to our purposes
-- **Matlab** *>100* hours
+- **Matlab** *>100 hours*
 	- This was the go-to language during my bachelor's 
-- **Java** *>100* hours
+- **Java** *>100 hours*
 	- My introduction course in programming was in Java
+- **SQL** *~20 hours*
+	- The summer of 2021 I took a introductory course in SQL at coursera
 - I also know the languages **Latex**, **Labview** and **Berckhoff Twincat** 
 - I am comfortable working with **linux** and **git**
 

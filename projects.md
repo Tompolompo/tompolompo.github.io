@@ -3,7 +3,14 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+## University Projects
+### 
 
+
+### Learning from data - *Fall 2020*
+
+
+## Hobby Projects
 
 
 ---
