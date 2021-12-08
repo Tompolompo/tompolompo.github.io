@@ -17,17 +17,17 @@ In this course we learned about various deep learning techniques and implemented
 - **Reinforcement Learning**: 
 	- model free RL on grid worlds
 	- Deep Q-learning on the CartPole environment
-- **CycleGAN**:
+- **CycleGAN**: ([report](./files/Deep_Learning_Project___Report.pdf))
 	- **U-Net** and **PatchGAN** architectures 
 	- style and morphological transfer betwee images of two domains
 
 ### Advanced simulation and machine learning - *fall 2021*
 In this course we used many ML-methods rooted in Bayesian statistics. Some of the projects we did in python were
-- Bayesian inference on generalized linear models
+- Bayesian inference on generalized linear models ([report](./files/TIF345___Project_1.pdf))
 	- Using Markov chain Monte Carlo (MCMC) sampling we fitted different cosmological models, including error modelling, on Type 1a supernovea data
-- Comparison of advanced linear regression models
+- Comparison of advanced linear regression models ([report](./files/TIF345___Project_2a.pdf))
 	- Estimated effective cluster interaction coefficients inferred by OLS, Ridge, covariance method, full Bayesian analysis (MCMC) and automatic relevance detection regression (ARDR)
-- Global optimization
+- Global optimization ([report](./files/TIF345___Project_2b.pdf))
 	- With Gaussian processes we efficiently found global minima of a multimodal surface using a LCB Aquisition function
 
 ### Advanced probabilistic machine learning - *fall 2021*
@@ -38,7 +38,7 @@ This was mainly a theoretical course where we covered many techniques from Bayes
 
 ### Learning from data - *fall 2020*
 The course introduced a variety of central algorithms and methods essential for performing scientific data analysis using Bayesian inference and machine learning. Two selected projects were
-- Parameter estimation
+- Parameter estimation ([report](./files/Project_1_Learning_from_data.pdf))
 	- MCMC sampling to estimate parameters of an effective field theory
 	- Extensive Bayesian comparison between different models and priors
 - Solving the chaotic three-body problem with deep neural networks ([report](./files/Project_2_Learning_from_data.pdf))
