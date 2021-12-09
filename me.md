@@ -4,7 +4,7 @@ title: My Story
 permalink: /me/
 ---
 
-I grew up in Stockholm and had what I believe was a rather typical Swedish upbringing. When I was about to start high school I began something that was to become a big part of my life up until this day. I began a journey to become a professional athlete, specifically as a javelin thrower. At this time my life was built around training. I was either at the training grounds, home studying the technique of the worlds best throwers on Youtube or reading up on how best to optimize my performance through different training regimes and diets. I even spent one year during high school in Australia at a sports school to gain new insights.
+I grew up in Stockholm and had what I believe was a rather typical Swedish upbringing. When I was about to start high school, in Stockholm,  I began something that was to become a big part of my life up until this day. I began a journey to become a professional athlete, specifically as a javelin thrower. At this time my life was built around training. I was either at the training grounds, home studying the technique of the worlds best throwers on Youtube or reading up on how best to optimize my performance through different training regimes and diets. I even spent one year during high school in Australia at a sports school to gain new insights.
 
 Parallel with this, a curiosity about the natural world had sparked in me. I was studying the natural science program in high school and mathematics and physics was something that truly inspired me.
 

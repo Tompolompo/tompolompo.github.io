@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 ## University Projects
-Below are some selected data science projects I've done in my master. 
+Below are some selected data science projects I've done in my master. Have a look at my [cv](/cv/) to see what other courses I've taken.
 ### Deep learning - *fall 2021*
 In this course we learned about various deep learning techniques and implemented some of them using **pytorch** . For the heavy computations we relied on **cloud computing** via Google Cloud. Some of the projects were:
 - Image classifiers:
@@ -46,17 +46,20 @@ The course introduced a variety of central algorithms and methods essential for 
 	- constructed a custom loss function to improve energy conservation
 
 
-### Computational physics - *fall 2020*
+<!---### Computational physics - *fall 2020*--->
 
-### Algorithms in finance - *spring 2020*
+<!---### Algorithms in finance - *spring 2020*--->
 
 ---
 ## Hobby Projects
 ### Reinforcement Learning - *summer 2021*
+I created a few simple games using **pygame** that I then trained an RL-agent using **Deep-Q learning** to play. In one of the games, the agent gained super-human skills playing the game (a lot better than me).
 
 ### Interpretability of neural networks - *summer 2021*
+As part of my *AGI safety fundamentals* fellowship (see  [cv](/cv/)), I explored interpretability of neural networks. I trained simple image classifiers on the MNIST dataset using **tensorflow** and inspected individual neurons by maximizing their activation with respect to the input image. 
 
 ### Quantitative finance - *summer 2019*
+In the summer of 2019, between trainings and competitions, I decided that I wanted to learn **python**. To this end, I wanted to create a project so I could learn python in a fun way. At that time, I was interested in quantitative finance so I spent the summer break developing a backtesting program for the evaluation of trading algorithms on data scraped from Yahoo Finance. I also built a webpage that tracked the progress of an algorithm that ran live with mock capital.
 
 
 ---
