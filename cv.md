@@ -52,7 +52,7 @@ From age 15 I have trained to become a professional athlete
 	- Bronze medal with 146kg at the 2021 Nationals in Clean and Jerk (89kg class)
 	- Best snatch in the 89 kg class: 108 kg (118 kg in training) - 2021
 	- Best clean and jerk in the 89 kg class: 146 kg (150 kg in training) - 2021
-- 15 to ~ 23: **Javelin throwing  **
+- 15 to ~ 23: **Javelin throwing**
 	- 13th at the 2021 Swedish nationals
 	- 6th 2015 and 2016 at the Swedish junior nationals
 	- Awarded "*Breakthrough of the Year'*' in 2015 at IFK Lidingö Friidrott (athletics club)
@@ -69,9 +69,13 @@ I help running and developing the local EA community in Gothenburg. The work mos
 **Fellowship organized by Effective Altruism Cambridge**\
 Structured reading group over the summer on the subject of Artificial General Intelligence. We read selected articles and discussed in small groups once a week for 8 weeks. Fellowship ended with a capstone project where I explored interpretability in AI.
 
-### 10-day silent retreat , *Ödeshög*
+### 10-day silent retreat 
 *Winter 2021*\
-A 10-day silent meditation retreat (Vipassana). Every day there was meditation from 4.30 in the morning until bedtime with no talking, no eye contact, no phones, no writing and no reading. 
+A 10-day silent meditation retreat (Vipassana) in Ödeshög, Sweden. Every day there was meditation from 4.30 in the morning until bedtime with no talking, no eye contact, no phones, no writing and no reading. 
+
+### Effective Altrusim Student Summit
+*Fall 2020*\
+Participated in the 2020 EA student summit where I listend to talks, partook in workshops and connected with people. Won a forcasting competition with a price of donating $500 to charity of choice.
 
 ---
 ## Professional Skills, Tests and Scholarships
